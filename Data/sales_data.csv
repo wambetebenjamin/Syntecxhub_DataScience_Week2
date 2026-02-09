@@ -1,0 +1,16 @@
+date,order_id,category,sub_category,region,quantity,unit_price,sales
+2024-01-03,ORD001,Electronics,Phones,East,2,600,1200
+2024-01-05,ORD002,Clothing,Shirts,West,4,200,800
+2024-01-10,ORD003,Electronics,Laptops,North,1,1500,1500
+2024-01-15,ORD004,Furniture,Chairs,South,2,350,700
+2024-02-02,ORD005,Electronics,Accessories,East,5,100,500
+2024-02-08,ORD006,Clothing,Trousers,West,3,300,900
+2024-02-12,ORD007,Electronics,Phones,North,2,650,1300
+2024-02-18,ORD008,Furniture,Tables,South,1,1200,1200
+2024-03-01,ORD009,Electronics,Laptops,East,1,1700,1700
+2024-03-06,ORD010,Clothing,Shoes,West,2,400,800
+2024-03-12,ORD011,Furniture,Beds,North,1,2000,2000
+2024-03-18,ORD012,Electronics,Accessories,South,6,90,540
+2024-03-22,ORD013,Clothing,Shirts,East,5,180,900
+2024-03-28,ORD014,Electronics,Phones,West,3,620,1860
+
